@@ -222,4 +222,4 @@ Use `Instantly_Ready_Leads.csv` — pre-formatted with subject lines and email b
 
 <br>
 
-**Govind Singh** · Associate Data Scientist · [LinkedIn](https://www.linkedin.com/in/govind-singh-994a28290/) . [Live Demo]([https://www.linkedin.com/in/govind-singh-994a28290/](https://client-finder-ai.onrender.com/))
+**Govind Singh** · Associate Data Scientist · [LinkedIn](https://www.linkedin.com/in/govind-singh-994a28290/) . [Live Demo](https://client-finder-ai.onrender.com/)
